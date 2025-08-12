@@ -28,17 +28,17 @@ The project showcases premium supercars with booking options, owner reviews, con
 ## 📸 Screenshots
 
 ### 1️⃣ Navbar & Hero Section
-![Navbar & Hero Section](screenshots/navbar-hero.png)
+![Navbar & Hero Section](screenshots/navbar-hero.PNG)
 
 ### 2️⃣ Pricing Section
-![Pricing Section](screenshots/pricing.png)
+![Pricing Section](screenshots/pricing.PNG)
 
 ### 3️⃣ Accordion Car Details
-![Accordion Car Details](screenshots/accordion.png)
+![Accordion Car Details](screenshots/accordion.PNG)
 
 ### 4️⃣ Owner Reviews
-![Owner Reviews](screenshots/reviews.png)
+![Owner Reviews](screenshots/reviews.PNG)
 
 ### 5️⃣ Contact Form
-![Contact Form](screenshots/contact.png)
+![Contact Form](screenshots/contact.PNG)
 
